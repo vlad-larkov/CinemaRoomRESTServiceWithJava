@@ -1,0 +1,11 @@
+content:
+  - Theory
+  - Debugging and fixing a square calculation method
+  - Implementing error handling for division by zero operation
+  - Handling and logging null pointer exceptions
+  - Best practices
+  - Assertion
+  - Checking the argument
+  - Find the error
+  - Different techniques
+  - Proper tools
